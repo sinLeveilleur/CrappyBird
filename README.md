@@ -4,6 +4,7 @@
 
 ## Description
 Flappy Bird klon in lua 
+(gerade fehlen Collison und death status)
 
 ## Controlls
 Leertaste = springen
